@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "wojewodztwa_centroidy",
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "dane1": 10, "dane2": 12, "dane3": 45, "dane4": 33 }, "geometry": { "type": "Point", "coordinates": [ 21.096446857885763, 52.345759198604178 ] } },
+{ "type": "Feature", "properties": { "id": 2, "dane1": 9, "dane2": 54, "dane3": 21, "dane4": 16 }, "geometry": { "type": "Point", "coordinates": [ 22.169117850939742, 49.953672404617571 ] } },
+{ "type": "Feature", "properties": { "id": 3, "dane1": 22, "dane2": 64, "dane3": 11, "dane4": 3 }, "geometry": { "type": "Point", "coordinates": [ 20.769083978170396, 50.763392339401783 ] } },
+{ "type": "Feature", "properties": { "id": 4, "dane1": 56, "dane2": 32, "dane3": 3, "dane4": 9 }, "geometry": { "type": "Point", "coordinates": [ 18.037903997833713, 54.177338684774753 ] } },
+{ "type": "Feature", "properties": { "id": 5, "dane1": 44, "dane2": 10, "dane3": 14, "dane4": 32 }, "geometry": { "type": "Point", "coordinates": [ 22.929303537992286, 53.264514470099641 ] } },
+{ "type": "Feature", "properties": { "id": 6, "dane1": 32, "dane2": 15, "dane3": 45, "dane4": 8 }, "geometry": { "type": "Point", "coordinates": [ 15.543055843941321, 53.585285611947022 ] } },
+{ "type": "Feature", "properties": { "id": 7, "dane1": 56, "dane2": 13, "dane3": 22, "dane4": 9 }, "geometry": { "type": "Point", "coordinates": [ 18.994097569038949, 50.331076500177446 ] } },
+{ "type": "Feature", "properties": { "id": 7, "dane1": 56, "dane2": 13, "dane3": 22, "dane4": 9 }, "geometry": { "type": "Point", "coordinates": [ 19.778822081011572, 50.777250884352462 ] } },
+{ "type": "Feature", "properties": { "id": 7, "dane1": 56, "dane2": 13, "dane3": 22, "dane4": 9 }, "geometry": { "type": "Point", "coordinates": [ 19.793060183615125, 50.810814275509109 ] } },
+{ "type": "Feature", "properties": { "id": 7, "dane1": 56, "dane2": 13, "dane3": 22, "dane4": 9 }, "geometry": { "type": "Point", "coordinates": [ 19.794972038659449, 50.815748918421392 ] } },
+{ "type": "Feature", "properties": { "id": 8, "dane1": 0, "dane2": 29, "dane3": 31, "dane4": 40 }, "geometry": { "type": "Point", "coordinates": [ 17.899878824448187, 50.647109855957915 ] } },
+{ "type": "Feature", "properties": { "id": 9, "dane1": 31, "dane2": 12, "dane3": 43, "dane4": 14 }, "geometry": { "type": "Point", "coordinates": [ 16.410689995423581, 51.089502293345646 ] } },
+{ "type": "Feature", "properties": { "id": 10, "dane1": 26, "dane2": 17, "dane3": 22, "dane4": 35 }, "geometry": { "type": "Point", "coordinates": [ 17.2430995536597, 52.33078684849287 ] } },
+{ "type": "Feature", "properties": { "id": 11, "dane1": 39, "dane2": 25, "dane3": 17, "dane4": 19 }, "geometry": { "type": "Point", "coordinates": [ 20.269334470444427, 49.85894809447533 ] } },
+{ "type": "Feature", "properties": { "id": 12, "dane1": 75, "dane2": 5, "dane3": 10, "dane4": 10 }, "geometry": { "type": "Point", "coordinates": [ 19.417592620511154, 51.604867835827136 ] } },
+{ "type": "Feature", "properties": { "id": 13, "dane1": 23, "dane2": 26, "dane3": 27, "dane4": 25 }, "geometry": { "type": "Point", "coordinates": [ 20.824929914154701, 53.85721005800211 ] } },
+{ "type": "Feature", "properties": { "id": 14, "dane1": 41, "dane2": 22, "dane3": 26, "dane4": 11 }, "geometry": { "type": "Point", "coordinates": [ 18.488216678461395, 53.072706355919941 ] } },
+{ "type": "Feature", "properties": { "id": 15, "dane1": 19, "dane2": 24, "dane3": 52, "dane4": 5 }, "geometry": { "type": "Point", "coordinates": [ 22.900264594294949, 51.220719303053158 ] } },
+{ "type": "Feature", "properties": { "id": 16, "dane1": 42, "dane2": 16, "dane3": 28, "dane4": 4 }, "geometry": { "type": "Point", "coordinates": [ 15.342739086222336, 52.196174368243746 ] } }
+]
+}
