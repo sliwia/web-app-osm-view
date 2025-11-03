@@ -20,7 +20,7 @@ const Statistics = () => {
   const mapRef = useRef(null);
 
   useEffect(() => {
-    const vectorSource = new VectorSource();
+    const vectorLayerSource = new VectorSource();
 
     wojewodztwaPoints.features.forEach((item) => {
       const feature = new Feature({
@@ -49,11 +49,11 @@ const Statistics = () => {
       });
 
       feature.setStyle(chartStyle);
-      vectorSource.addFeature(feature);
+      vectorLayerSource.addFeature(feature);
     });
 
     const vectorLayer = new VectorLayer({
-      source: vectorSource,
+      source: vectorLayerSource,
     });
 
     const map = new Map({

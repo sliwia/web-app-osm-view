@@ -11,10 +11,6 @@
     "format": "prettier --write ."
   },
   "dependencies": {
-    "@turf/bbox-polygon": "^7.2.0",
-    "@turf/difference": "^7.2.0",
-    "@turf/turf": "^7.2.0",
-    "@types/turf": "^3.5.32",
     "ol": "^10.6.1",
     "ol-ext": "^4.0.36",
     "react": "^19.1.1",

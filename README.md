@@ -1,5 +1,26 @@
 # React + TypeScript + Vite
 
+# Available Scripts
+
+In the project directory, you can run:
+
+## npm run dev
+Runs the app in the development mode.
+Open http://localhost:5173 to view it in the browser.
+
+The page will reload if you make edits.
+You will also see any lint errors in the console.
+
+
+
+# Tools
+`https://viglino.github.io/ol-ext/doc/doc-pages/index.html`
+`https://react-leaflet.js.org/`
+`prerrier`
+`eslint`
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
@@ -75,5 +96,4 @@ export default defineConfig([
 ```
 
 
-Tools
-`https://viglino.github.io/ol-ext/doc/doc-pages/index.html`
+
