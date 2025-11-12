@@ -1,5 +1,4 @@
-import LayersView from "./view/LayersView";
-import Statistics from "./view/Statistics";
+import {LayersView, Statistics} from "./view";
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 
 
@@ -10,7 +9,7 @@ export default function App() {
     <BrowserRouter>
       <nav>
         <Link to="/">Layers</Link> |{" "}
-        <Link to="/statistics">Statistics</Link>
+        <Link to="/statistics">Statistics (advanced)</Link>
       </nav>
 
       <Routes>
