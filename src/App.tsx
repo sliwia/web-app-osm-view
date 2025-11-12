@@ -1,10 +1,7 @@
-import {LayersView, Statistics} from "./view";
-import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
-
-
+import { LayersView, Statistics } from "./view";
+import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 
 export default function App() {
-
   return (
     <BrowserRouter>
       <nav>
@@ -17,5 +14,5 @@ export default function App() {
         <Route path="/statistics" element={<Statistics />} />
       </Routes>
     </BrowserRouter>
-  )
+  );
 }

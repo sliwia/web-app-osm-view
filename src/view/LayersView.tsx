@@ -29,7 +29,7 @@ import { polandBounds } from "../data/utils/polandBounds";
 // const canvasRenderer = L.canvas({ padding: 0.5 });
 
 const LayersView = () => {
-  const [showStatistics, setShowStatistics] = useState(true);
+  const [showStatistics, setShowStatistics] = useState(false);
   const mapMainViewRef = useRef<LeafletMap | null>(null);
   const mapRef = useRef(null);
 
